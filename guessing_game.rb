@@ -1,3 +1,4 @@
+#Cruz is nice
 def ask_user()
     puts puts
     print "Guess an integer between 1 and 100: "
